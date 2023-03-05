@@ -39,21 +39,25 @@
 
 // Data Types
 
-
 var x = 19;
-var name = "Mark";
+var Name = 'Mark';
 var doorOpen = true;
 
 // Number
 // String
 // Boolean
 
-
 var a;
 
 // to find the data type
 
-document.write(typeof(name))
+document.write(typeof Name);
+document.write(typeof x);
+document.write(typeof doorOpen);
+document.write(typeof a);
+
+var num = null;
+
+document.write(typeof num);
 
 // undefined
-
