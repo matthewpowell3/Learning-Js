@@ -26,3 +26,13 @@
 
 // let does not make you redefine a variable with the same name
 
+// const x =  5 , y= 5;
+// const z = x+y;
+
+// document.write(z)
+
+// x = y+y+x+y;
+
+// document.write(x)
+
+// const variables don't reassign values you can't redefined names like let variable
