@@ -36,3 +36,20 @@
 // document.write(x)
 
 // const variables don't reassign values you can't redefined names like let variable
+
+// Data Types
+
+
+// var x = 19;
+// var name = "Mark";
+// var doorOpen = true;
+
+// Number
+// String
+// Boolean
+
+
+// var a;
+
+// undefined
+
