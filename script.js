@@ -58,6 +58,8 @@ document.write(typeof a);
 
 var num = null;
 
+// null is a object
+
 document.write(typeof num);
 
 // undefined
