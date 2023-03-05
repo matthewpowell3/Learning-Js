@@ -40,16 +40,20 @@
 // Data Types
 
 
-// var x = 19;
-// var name = "Mark";
-// var doorOpen = true;
+var x = 19;
+var name = "Mark";
+var doorOpen = true;
 
 // Number
 // String
 // Boolean
 
 
-// var a;
+var a;
+
+// to find the data type
+
+document.write(typeof(name))
 
 // undefined
 
